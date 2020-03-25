@@ -1,5 +1,5 @@
 % Edited: Julian A. Castro [juacastropa@unal.edu.co]
-% The function bode_asymptotic() corresponds to bode(),
+% The function asymptoticBode() corresponds to bode(),
 % but it also plots asymptotes for the magnitude and phase graphs.
 % bode_asymptotic() only accepts monovariable transfer functions.
 % Credits: Valerio Scordamaglia (2020). MATLAB Central File Exchange. Retrieved March 24, 2020.

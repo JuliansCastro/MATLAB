@@ -1,2 +1,2 @@
 # MATLAB
-Lugar para compratir Scripts de MATLAB
+Lugar para compartir Scripts de MATLAB
